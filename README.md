@@ -5,7 +5,7 @@ Parkinson’s Disease is a progressive neurological disorder. Early detection is
 
 ## 📂 Dataset
 
-* **Source**: <a href="https://github.com/Sanchitsingh05/Parkinson-s-Disease-Detection-SVM-XGBoost/blob/main/parkinsons.csv"></a>
+* <strong>Source</strong>: <a href="https://github.com/Sanchitsingh05/Parkinson-s-Disease-Detection-SVM-XGBoost/blob/main/parkinsons.csv">Click here to view the dataset</a>s
 * **Features**: Biomedical voice measurements like pitch, jitter, shimmer, and Harmonic-to-Noise Ratio
 * **Target**: `status` (1 = Parkinson's Disease, 0 = Healthy)
 
